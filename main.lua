@@ -1,4 +1,4 @@
--- [[ PROJECT: Classic Retro Craftwars - Elite Customizable Hub (v15.5) ]]
+-- [[ PROJECT: Classic Retro Craftwars - Elite Customizable Hub ]]
 -- [[ ЧАСТЬ 1 ИЗ 4: Конфигурация и Таблицы ]]
 
 if _G.CraftwarsEliteLoaded then
